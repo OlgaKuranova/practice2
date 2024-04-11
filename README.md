@@ -7,6 +7,7 @@
 
 
 Изображение часов:
+
 ![Screenshot_clock](https://github.com/OlgaKuranova/laba2/blob/main/clock.png)
 
 
